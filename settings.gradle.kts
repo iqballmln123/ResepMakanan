@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "ResepMakan"
 include(":admin")
 include(":user")
+include(":shared")
