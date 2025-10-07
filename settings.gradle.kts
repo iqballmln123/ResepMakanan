@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ResepMakan"
-include(":app")
- 
+include(":admin")
+include(":user")
